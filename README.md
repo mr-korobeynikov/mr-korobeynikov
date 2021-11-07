@@ -2,7 +2,9 @@
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning WordPress web-site building
 - 💞️ I’m looking to collaborate on new features, plugins, code examples and so on...
-- 📫 How to reach me ? https://korobeynikov.pp.ua
+- 📫 How to reach me ? eugenehellcat@gmail.com 
+- 🖥 korobeynikov.pp.ua
+- 💻 mr-korobeynikov.github.io
 
 <!---
 mr-korobeynikov/mr-korobeynikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

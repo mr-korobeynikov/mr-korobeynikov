@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning WordPress web-site building
 - 💞️ I’m looking to collaborate on new features, plugins, code examples and so on...
 - 📫 How to reach me ? eugenehellcat@gmail.com 
-- 🖥 korobeynikov.pp.ua
+- 🖥 https://mr-korobeynikov.github.io/
 - 💻 mr-korobeynikov.github.io
 
 <!---
